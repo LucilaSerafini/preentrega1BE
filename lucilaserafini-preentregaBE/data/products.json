@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "title": "Bowl Peruviana",
+      "description": "Bowl con boca de 12 cm de diámetro, perfecto para sopas, ensaladas o cereales.",
+      "code": "001",
+      "price": 10000,
+      "status": true,
+      "stock": 10,
+      "category": "Vajilla",
+      "thumbnails": ["images/bowl.jpg"]        
+    },
+    {
+      "id": "2",
+      "title": "Tazón y Platito Monstera",
+      "description": "Tazón azul gastado decorado con motivos blancos y platito gris, perfecto para cualquier tipo de infusión.",
+      "code": "002",
+      "price": 25000,
+      "status": true,
+      "stock": 10,
+      "category": "Decoración",
+      "thumbnails": ["images/tazon.jpg"]
+    }
+]
